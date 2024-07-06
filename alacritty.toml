@@ -1,0 +1,22 @@
+import = [
+    "~/.config/alacritty/themes/themes/kanagawa_wave.toml"
+]
+
+[env]
+WINIT_X11_SCALE_FACTOR = "1.5"
+
+[font]
+size = 16
+
+[window]
+opacity = 0.9
+decorations = "None"
+
+[font.normal]
+family="UbuntuMono Nerd Font"
+
+[window.padding]
+x = 7
+y = 0
+
+
